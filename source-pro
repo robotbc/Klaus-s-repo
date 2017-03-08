@@ -1,0 +1,3 @@
+var klaus = object{
+age:10, likes: "pie"
+}
